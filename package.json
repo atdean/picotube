@@ -1,0 +1,14 @@
+{
+  "name": "picotube",
+  "version": "0.0.1",
+  "description": "An extremely basic Youtube-inspired tech demo using Go and ffmpeg.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Dean",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}

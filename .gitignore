@@ -1,0 +1,6 @@
+notes.txt
+.idea/
+bin/
+node_modules/
+config.yaml
+public/css/*.css
