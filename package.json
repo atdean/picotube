@@ -6,6 +6,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Austin Dean",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atdean/picotube.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2",
